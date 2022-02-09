@@ -1,4 +1,4 @@
-To all the viewer giving exam,
+To all the viewers giving exam,
 These are short python program that college will probably never teach you.
 If you are gonna use this for copying, star this repo. 
 If you are here, Im pretty sure tomorrow is your exam and you are stressing out
